@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MGC-PR01-Greet</string>
+    <string name="sir_name">SirName</string>
+    <string name="name">Name</string>
+    <string name="politely">Politely</string>
+    <string name="greet">Greet</string>
+    <string name="reset">Reset</string>
+    <string name="unpolitemsg">Hey bro, </string>
+    <string name="politemsg">Welcome, Mr./Ms. </string>
+    <string name="emptyText" />
+</resources>
